@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Decaf iced latte</title>
+  <desc id="desc">A decaf iced coffee menu image.</desc>
+  <rect width="1200" height="900" fill="#edf4f5"/>
+  <rect y="610" width="1200" height="290" fill="#b68d68"/>
+  <path d="M430 180h340l-45 520H475z" fill="#d7eef1"/>
+  <path d="M460 470h280l-22 230H482z" fill="#c69a75"/>
+  <path d="M448 280h304l-18 190H466z" fill="#fff8ec"/>
+  <rect x="512" y="230" width="70" height="70" rx="10" fill="#fff"/>
+  <rect x="620" y="250" width="82" height="82" rx="10" fill="#fff"/>
+  <text x="482" y="790" fill="#16302b" font-family="Arial, sans-serif" font-size="54" font-weight="700">DECAF</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Coffee and sandwich set</title>
+  <desc id="desc">A lunch set with coffee and sandwich.</desc>
+  <rect width="1200" height="900" fill="#fff8ef"/>
+  <rect y="575" width="1200" height="325" fill="#caa475"/>
+  <circle cx="405" cy="430" r="190" fill="#f8f3eb"/>
+  <path d="M285 430l120-115 130 115-130 115z" fill="#e8b45f"/>
+  <path d="M318 430h174" stroke="#6d8b52" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="800" cy="430" r="145" fill="#f8f3eb"/>
+  <circle cx="800" cy="430" r="96" fill="#352016"/>
+  <path d="M930 405c78-8 96 92 20 114" stroke="#f8f3eb" stroke-width="40" fill="none"/>
+</svg>

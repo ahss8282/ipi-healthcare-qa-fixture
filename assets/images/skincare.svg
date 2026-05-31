@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Skin care products</title>
+  <desc id="desc">A moisturizer jar and serum bottle for healthcare retail pages.</desc>
+  <rect width="1200" height="900" fill="#f9f5f1"/>
+  <rect y="625" width="1200" height="275" fill="#eadbd0"/>
+  <rect x="330" y="385" width="300" height="245" rx="38" fill="#ffffff" stroke="#d0b8aa" stroke-width="8"/>
+  <rect x="360" y="330" width="240" height="75" rx="18" fill="#c96b5a"/>
+  <rect x="720" y="205" width="155" height="425" rx="34" fill="#ffffff" stroke="#d0b8aa" stroke-width="8"/>
+  <rect x="748" y="315" width="100" height="170" rx="12" fill="#0b6b63"/>
+  <circle cx="280" cy="245" r="90" fill="#f2d57d" opacity=".55"/>
+  <text x="405" y="745" fill="#123b38" font-family="Arial, sans-serif" font-size="58" font-weight="700">Skin Comfort</text>
+</svg>

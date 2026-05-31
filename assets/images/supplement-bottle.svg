@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Daily supplement bottle</title>
+  <desc id="desc">A supplement bottle for a healthcare landing page.</desc>
+  <rect width="1200" height="900" fill="#f5f8f7"/>
+  <rect y="620" width="1200" height="280" fill="#dbe9e5"/>
+  <rect x="470" y="130" width="260" height="90" rx="16" fill="#0b6b63"/>
+  <rect x="410" y="210" width="380" height="520" rx="48" fill="#ffffff" stroke="#b8c9c5" stroke-width="8"/>
+  <rect x="460" y="360" width="280" height="180" rx="18" fill="#f2d57d"/>
+  <text x="496" y="445" fill="#123b38" font-family="Arial, sans-serif" font-size="54" font-weight="700">Daily</text>
+  <text x="487" y="500" fill="#123b38" font-family="Arial, sans-serif" font-size="40">Care</text>
+  <circle cx="255" cy="300" r="80" fill="#c96b5a" opacity=".35"/>
+  <circle cx="930" cy="260" r="110" fill="#0b6b63" opacity=".16"/>
+</svg>

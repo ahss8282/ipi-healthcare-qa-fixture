@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cafe table with coffee and dessert</title>
+  <desc id="desc">A warm product-style illustration for a coffee shop landing page.</desc>
+  <rect width="1200" height="900" fill="#f2efe7"/>
+  <rect y="560" width="1200" height="340" fill="#b9895b"/>
+  <circle cx="370" cy="400" r="170" fill="#f7f2e9"/>
+  <circle cx="370" cy="400" r="120" fill="#2d1b12"/>
+  <circle cx="760" cy="430" r="150" fill="#f7f2e9"/>
+  <path d="M660 420c70-105 205-64 200 58-4 87-101 135-170 92-47-29-62-94-30-150z" fill="#e7b65e"/>
+  <path d="M230 620h700v58H230z" fill="#33231b" opacity=".16"/>
+  <text x="70" y="130" fill="#16302b" font-family="Arial, sans-serif" font-size="58" font-weight="700">Hanbit Coffee Lab</text>
+</svg>

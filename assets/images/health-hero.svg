@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Healthcare product display</title>
+  <desc id="desc">A clean healthcare product display with supplement bottles and care products.</desc>
+  <rect width="1400" height="900" fill="#f4f8f7"/>
+  <rect y="640" width="1400" height="260" fill="#dbe9e5"/>
+  <circle cx="1090" cy="230" r="150" fill="#b7d8ce"/>
+  <circle cx="250" cy="210" r="110" fill="#f2d57d"/>
+  <rect x="450" y="250" width="180" height="390" rx="28" fill="#ffffff" stroke="#b8c9c5" stroke-width="8"/>
+  <rect x="485" y="355" width="110" height="150" rx="12" fill="#0b6b63"/>
+  <rect x="760" y="210" width="210" height="430" rx="34" fill="#ffffff" stroke="#b8c9c5" stroke-width="8"/>
+  <rect x="795" y="340" width="140" height="170" rx="14" fill="#f2d57d"/>
+  <rect x="660" y="405" width="160" height="235" rx="24" fill="#ffffff" stroke="#b8c9c5" stroke-width="8"/>
+  <rect x="692" y="482" width="96" height="90" rx="10" fill="#c96b5a"/>
+  <text x="125" y="760" fill="#123b38" font-family="Arial, sans-serif" font-size="66" font-weight="700">Formosa Wellcare</text>
+</svg>

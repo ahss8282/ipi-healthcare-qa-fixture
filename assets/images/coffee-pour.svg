@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Hand drip coffee</title>
+  <desc id="desc">A hand drip coffee scene for a seasonal coffee page.</desc>
+  <rect width="1200" height="900" fill="#f5f0e8"/>
+  <path d="M425 250h350l-60 220H485z" fill="#d9d0c0"/>
+  <path d="M500 320h200l-32 110H532z" fill="#493125"/>
+  <path d="M582 470h36v165h-36z" fill="#6d4a36"/>
+  <ellipse cx="600" cy="670" rx="230" ry="82" fill="#f8f5ee"/>
+  <ellipse cx="600" cy="650" rx="165" ry="45" fill="#2f1d14"/>
+  <path d="M600 80c-60 85-18 115-64 184" stroke="#8b6e54" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <circle cx="235" cy="705" r="70" fill="#e0a957"/>
+  <circle cx="955" cy="190" r="90" fill="#08605f" opacity=".16"/>
+</svg>

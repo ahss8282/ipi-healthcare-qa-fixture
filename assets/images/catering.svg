@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Coffee catering cups</title>
+  <desc id="desc">Takeout cups arranged for an office catering service.</desc>
+  <rect width="1200" height="900" fill="#f1f5f4"/>
+  <rect y="620" width="1200" height="280" fill="#9a755b"/>
+  <g fill="#fffdf8">
+    <path d="M230 250h170l-25 330H255z"/>
+    <path d="M515 210h170l-25 370H540z"/>
+    <path d="M800 270h170l-25 310H825z"/>
+  </g>
+  <g fill="#f0c66f">
+    <rect x="248" y="335" width="134" height="84" rx="8"/>
+    <rect x="532" y="310" width="136" height="92" rx="8"/>
+    <rect x="817" y="350" width="136" height="78" rx="8"/>
+  </g>
+  <text x="535" y="720" fill="#fffdf8" font-family="Arial, sans-serif" font-size="54" font-weight="700">CATERING</text>
+</svg>
